@@ -1,0 +1,8 @@
+{
+  "name": "حساب استهلاك الكهرباء بالباركود",
+  "description": "تطبيق ذكي لحساب استهلاك الأجهزة الكهربائية بالوات والجنيه المصري وتوضيح شرائح الكهرباء في مصر مع مسح الباركود للتسجيل التلقائي ومستشار ذكي لترشيد الطاقة مدعوم بنموذج Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
